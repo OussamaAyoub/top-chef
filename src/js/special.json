@@ -1,0 +1,2481 @@
+[
+    {
+        "Name": "Le 6ème Continent",
+        "id": "67730",
+        "special": [
+            "-20% off the \"à la carte\" menu"
+        ]
+    },
+    {
+        "Name": "Les Climats",
+        "id": "30315",
+        "special": false
+    },
+    {
+        "Name": "Le Karibou",
+        "id": "210025",
+        "special": [
+            "-20% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Château de Mirambeau",
+        "id": "5487",
+        "special": false
+    },
+    {
+        "Name": "Au 14 Février - par Tsuyoshi ARAI -",
+        "id": "25001",
+        "special": false
+    },
+    null,
+    null,
+    {
+        "Name": "Les Trois Dômes - Christian Lherm",
+        "id": "15413",
+        "special": false
+    },
+    null,
+    null,
+    null,
+    {
+        "Name": "L'Atelier de Joël Robuchon Etoile",
+        "id": "35146",
+        "special": false
+    },
+    {
+        "Name": "Fletcher Hotel-Restaurant La Ville Blanche",
+        "id": "234063",
+        "special": false
+    },
+    {
+        "Name": "La Maison Martin",
+        "id": "334443",
+        "special": [
+            "-20% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Royal Thai Las Tablas",
+        "id": "58568",
+        "special": [
+            "-40% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "La Robe",
+        "id": "71118",
+        "special": false
+    },
+    {
+        "Name": "Château Le Cagnard",
+        "id": "37917",
+        "special": [
+            "-20% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Le Péché Gourmand",
+        "id": "38170",
+        "special": false
+    },
+    {
+        "Name": "La Fourchette du Printemps - Nicolas Mouton",
+        "id": "5020",
+        "special": [
+            "Menu Gourmands 79€"
+        ]
+    },
+    {
+        "Name": "Auberge le Prieuré",
+        "id": "313905",
+        "special": false
+    },
+    {
+        "Name": "Table des Barbus",
+        "id": "205971",
+        "special": false
+    },
+    null,
+    null,
+    {
+        "Name": "Le Jardin des Quatre Saisons",
+        "id": "2733",
+        "special": false
+    },
+    null,
+    null,
+    null,
+    {
+        "Name": "Au 14 Février - par Tsuyoshi ARAI -",
+        "id": "25001",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Les Loges",
+        "id": "270401",
+        "special": false
+    },
+    {
+        "Name": "Le Maximilien",
+        "id": "74338",
+        "special": false
+    },
+    {
+        "Name": "Le 114 Faubourg - Le Bristol Paris",
+        "id": "291345",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Le Lido",
+        "id": "215283",
+        "special": false
+    },
+    {
+        "Name": "La Table du Gourmet",
+        "id": "2975",
+        "special": false
+    },
+    {
+        "Name": "Le Gourmet de Sèze - Bernard Mariller",
+        "id": "28558",
+        "special": false
+    },
+    {
+        "Name": "La Table de l'Alpaga",
+        "id": "291883",
+        "special": [
+            "Menu 105€",
+            "Menu 135€",
+            "Menu 215€",
+            "Menu 160€"
+        ]
+    },
+    {
+        "Name": "L'Auberge de la Charme",
+        "id": "2579",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Au Crocodile",
+        "id": "71542",
+        "special": false
+    },
+    {
+        "Name": "Jin",
+        "id": "30379",
+        "special": [
+            "Menu 95€",
+            "Menu 145€"
+        ]
+    },
+    {
+        "Name": "La Lorraine",
+        "id": "216639",
+        "special": false
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "Name": "Le Jardin des Remparts",
+        "id": "4988",
+        "special": false
+    },
+    {
+        "Name": "Aigue Marine",
+        "id": "42741",
+        "special": false
+    },
+    {
+        "Name": "Le 39V Paris - Frédéric Vardon",
+        "id": "26112",
+        "special": [
+            "Menu Mardis Gourmands 135€ le soir",
+            "Menu Mardis Gourmands 85€ le midi"
+        ]
+    },
+    {
+        "Name": "Le Clarence",
+        "id": "74933",
+        "special": false
+    },
+    null,
+    {
+        "Name": "JY'S",
+        "id": "5603",
+        "special": false
+    },
+    {
+        "Name": "Restaurant du Palais Royal",
+        "id": "21741",
+        "special": false
+    },
+    null,
+    null,
+    {
+        "Name": "Auberge du Pont de Collonges - Paul Bocuse",
+        "id": "5355",
+        "special": false
+    },
+    {
+        "Name": "L'Orangerie du Château",
+        "id": "2728",
+        "special": false
+    },
+    {
+        "Name": "Casa del Marqués",
+        "id": "37255",
+        "special": false
+    },
+    {
+        "Name": "Apicius",
+        "id": "60418",
+        "special": false
+    },
+    {
+        "Name": "I Salotti",
+        "id": "322515",
+        "special": [
+            "Menu 95€",
+            "Menu 75€"
+        ]
+    },
+    {
+        "Name": "La Maison des Saveurs",
+        "id": "299625",
+        "special": [
+            "-40% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Flavours",
+        "id": "240067",
+        "special": false
+    },
+    {
+        "Name": "Stéphane Martin",
+        "id": "371",
+        "special": [
+            "-30% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Le Beaulieu",
+        "id": "200770",
+        "special": false
+    },
+    null,
+    null,
+    {
+        "Name": "Aida",
+        "id": "221463",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Christopher Coutanceau",
+        "id": "2998",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Les Trois Rochers - La Villa Tri Men",
+        "id": "7135",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Hostellerie de Levernois : Le Gastronomique",
+        "id": "3507",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Le Puits du Trésor",
+        "id": "529",
+        "special": [
+            "Set Menus from 47€ to 93€"
+        ]
+    },
+    null,
+    {
+        "Name": "Le Gambetta",
+        "id": "79244",
+        "special": [
+            "-20% off the \"à la carte\"!"
+        ]
+    },
+    {
+        "Name": "La Brasserie du Passage Saint-Michel",
+        "id": "21998",
+        "special": [
+            "-30% off the \"à la carte\" menu!"
+        ]
+    },
+    null,
+    {
+        "Name": "Gayola Steakhouse & Bar",
+        "id": "272755",
+        "special": false
+    },
+    {
+        "Name": "El Jardin Vertical",
+        "id": "52963",
+        "special": false
+    },
+    null,
+    null,
+    {
+        "Name": "Septime",
+        "id": "10889",
+        "special": false
+    },
+    {
+        "Name": "Le Clos de la Ribaudière",
+        "id": "15517",
+        "special": false
+    },
+    {
+        "Name": "De Meulen",
+        "id": "230803",
+        "special": false
+    },
+    {
+        "Name": "Quinsou",
+        "id": "317277",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Paloma",
+        "id": "38822",
+        "special": [
+            "Easter Lunch - Sunday, April 1st, 2018 Menu 180€"
+        ]
+    },
+    {
+        "Name": "Le Saint-James - Nicolas Magie",
+        "id": "4977",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Le Violon d'Ingres - Eric MEYER",
+        "id": "9976",
+        "special": [
+            "-40% off the \"à la carte\" menu!",
+            "-30% off the \"à la carte\" menu!",
+            "-20% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "La Tour des Vents",
+        "id": "75533",
+        "special": false
+    },
+    {
+        "Name": "Hostellerie de l'Abbaye de la Celle",
+        "id": "25901",
+        "special": [
+            "Menu 125€",
+            "Menu 98€"
+        ]
+    },
+    {
+        "Name": "Le Moulin du Roc",
+        "id": "7133",
+        "special": [
+            "Menu 85€",
+            "Menu 125€",
+            "Menu 49€"
+        ]
+    },
+    {
+        "Name": "Têtedoie - Christian Têtedoie",
+        "id": "3997",
+        "special": [
+            "Menu 90€",
+            "Menu 140€",
+            "Menu 110€"
+        ]
+    },
+    {
+        "Name": "Le Cloître",
+        "id": "11050",
+        "special": [
+            "Menu 125€",
+            "Menu 135€",
+            "Menu 75€"
+        ]
+    },
+    {
+        "Name": "Sur Mesure  par Thierry Marx - Mandarin Oriental, Paris",
+        "id": "53046",
+        "special": [
+            "« Diner » menu from 190€ to 250€",
+            "« Lunch » menu from 85€ to 150€"
+        ]
+    },
+    {
+        "Name": "L'Almandin",
+        "id": "566",
+        "special": [
+            "Menu 35€"
+        ]
+    },
+    {
+        "Name": "Le Relais Bernard Loiseau",
+        "id": "3303",
+        "special": [
+            "Menu 250€",
+            "Menu 150€",
+            "Menu 245€",
+            "Menu 195€",
+            "Menu 75€"
+        ]
+    },
+    {
+        "Name": "Le 1217",
+        "id": "28453",
+        "special": [
+            "Menu Surprise Menu 140€",
+            "Menu 85€",
+            "Menu 65€",
+            "Set Menu 28€",
+            "Menu 32€",
+            "Menu 26€"
+        ]
+    },
+    {
+        "Name": "La Maison dans le Parc",
+        "id": "4294",
+        "special": false
+    },
+    {
+        "Name": "Copenhague",
+        "id": "25985",
+        "special": [
+            "Offre Découverte Signature 115€"
+        ]
+    },
+    null,
+    {
+        "Name": "Le 1947 - Cheval Blanc Courchevel",
+        "id": "33786",
+        "special": false
+    },
+    {
+        "Name": "Le Domaine de Manville - La Table",
+        "id": "77571",
+        "special": false
+    },
+    {
+        "Name": "Fontevraud  Le Restaurant",
+        "id": "63173",
+        "special": false
+    },
+    null,
+    null,
+    {
+        "Name": "Alan Geaam Restaurant",
+        "id": "304421",
+        "special": false
+    },
+    {
+        "Name": "Auberge des Saints Pères",
+        "id": "4546",
+        "special": false
+    },
+    {
+        "Name": "Le Pays d'Auge",
+        "id": "1451",
+        "special": false
+    },
+    null,
+    null,
+    {
+        "Name": "Elsa",
+        "id": "263797",
+        "special": false
+    },
+    {
+        "Name": "Domaine du Val de Sorne",
+        "id": "4891",
+        "special": false
+    },
+    {
+        "Name": "La Côte Saint-Jacques",
+        "id": "12792",
+        "special": false
+    },
+    null,
+    null,
+    {
+        "Name": "La Scène",
+        "id": "73104",
+        "special": false
+    },
+    {
+        "Name": "Le Castellaras",
+        "id": "204609",
+        "special": false
+    },
+    {
+        "Name": "Le Chiberta - Stéphane Laruelle - Guy Savoy",
+        "id": "2828",
+        "special": [
+            "Menu Découverte 110€"
+        ]
+    },
+    {
+        "Name": "L'Arcane",
+        "id": "214579",
+        "special": false
+    },
+    {
+        "Name": "Lucas Carton - Julien DUMAS",
+        "id": "785",
+        "special": false
+    },
+    {
+        "Name": "Auberge de la Tour",
+        "id": "962",
+        "special": false
+    },
+    {
+        "Name": "Lasserre",
+        "id": "250",
+        "special": [
+            "Menu Plaisir 150€",
+            "Menu dégustation 190€",
+            "Menu Mardis Gourmands 150€",
+            "Menu Déjeuner 60€"
+        ]
+    },
+    {
+        "Name": "L'Amaryllis",
+        "id": "44057",
+        "special": false
+    },
+    {
+        "Name": "Initial",
+        "id": "27058",
+        "special": false
+    },
+    {
+        "Name": "L'Auberge de la Pomme",
+        "id": "32584",
+        "special": [
+            "Menu 70€",
+            "Menu 56€"
+        ]
+    },
+    {
+        "Name": "Julien Binz",
+        "id": "206163",
+        "special": false
+    },
+    {
+        "Name": "La Licorne Royale",
+        "id": "5632",
+        "special": false
+    },
+    {
+        "Name": "Domaine de Clairefontaine",
+        "id": "22878",
+        "special": false
+    },
+    {
+        "Name": "Le Faventia",
+        "id": "324473",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Auberge les Morainières",
+        "id": "10427",
+        "special": false
+    },
+    {
+        "Name": "Le Brittany",
+        "id": "9572",
+        "special": false
+    },
+    {
+        "Name": "Le Baudelaire",
+        "id": "282851",
+        "special": [
+            "-40% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Le Moulin de la Pipe",
+        "id": "27067",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Le Prince de Gand",
+        "id": "357473",
+        "special": false
+    },
+    {
+        "Name": "Le Clos des Sens",
+        "id": "7130",
+        "special": [
+            "Menu 70€",
+            "Menu \"Découverte Grande Fête \" en 10 saveurs 190€",
+            "Menu \"Découverte Plein d'Envies\" en 8 saveurs 160€",
+            "Menu \"Découverte Pour Voir...\" en 5 saveurs 120€"
+        ]
+    },
+    {
+        "Name": "Le Chantecler",
+        "id": "3886c6c3-db81-4da8-a6bc-5b6f6b4e7471",
+        "special": [
+            "Menu 25€"
+        ]
+    },
+    {
+        "Name": "La Table du Connétable",
+        "id": "60775",
+        "special": [
+            "Menu 165€",
+            "Menu 140€",
+            "Menu 95€",
+            "Menu 67€"
+        ]
+    },
+    {
+        "Name": "Qui Plume la Lune - Jacky Ribault",
+        "id": "11295",
+        "special": [
+            "Menu lunch prestige 90€ tout compris",
+            "Menu Déjeuner 45€",
+            "Menu Lucie 130€",
+            "Menu Angèle 85€",
+            "Menu Iphigénie 60€"
+        ]
+    },
+    {
+        "Name": "Le Restaurant Des Rois",
+        "id": "24998",
+        "special": [
+            "Easter Menu Menu 125€"
+        ]
+    },
+    {
+        "Name": "Le Passe Temps",
+        "id": "323145",
+        "special": [
+            "Menu 85€",
+            "Menu  60€",
+            "Menu 30€"
+        ]
+    },
+    {
+        "Name": "La Table du 11",
+        "id": "58408",
+        "special": false
+    },
+    {
+        "Name": "Albert 1er",
+        "id": "6309",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Prairial",
+        "id": "75043",
+        "special": false
+    },
+    {
+        "Name": "Maison Martin et fils",
+        "id": "50609",
+        "special": [
+            "-20% off the \"à la carte\" menu, including drinks!"
+        ]
+    },
+    {
+        "Name": "Le Vivier",
+        "id": "1086",
+        "special": [
+            "Menu 85€",
+            "Menu 58€",
+            "Menu du \"Marché\" 32€"
+        ]
+    },
+    null,
+    {
+        "Name": "Quai des Saveurs",
+        "id": "212045",
+        "special": false
+    },
+    {
+        "Name": "Buerehiesel - Eric Westermann",
+        "id": "3592",
+        "special": [
+            "Menu Expression soir d'ouverture 72€",
+            "Menu Dégustation, soir d'ouverture 104€",
+            "Menu Affaires, midi d'ouverture 37€"
+        ]
+    },
+    {
+        "Name": "Astrance",
+        "id": "344379",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Briketenia",
+        "id": "11743",
+        "special": false
+    },
+    null,
+    {
+        "Name": "La Coquerie by LeCoq-Gadby",
+        "id": "357",
+        "special": [
+            "Menu 55€",
+            "Menu 28€",
+            "Set Menu 20€"
+        ]
+    },
+    {
+        "Name": "Le Camelia",
+        "id": "61705",
+        "special": false
+    },
+    null,
+    {
+        "Name": "La Table d'Eugène",
+        "id": "36884",
+        "special": false
+    },
+    {
+        "Name": "Le Bon Accueil",
+        "id": "366205",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Aux Terrasses du Griffon",
+        "id": "34672",
+        "special": false
+    },
+    {
+        "Name": "Miraflores",
+        "id": "44919",
+        "special": false
+    },
+    {
+        "Name": "Le Foch",
+        "id": "333971",
+        "special": false
+    },
+    {
+        "Name": "Auberge de la Dune",
+        "id": "5488",
+        "special": false
+    },
+    {
+        "Name": "Le Park 45",
+        "id": "8628",
+        "special": [
+            "Menu  60€",
+            "Menu 190€",
+            "Menu 95€",
+            "Menu 95€"
+        ]
+    },
+    {
+        "Name": "La Marande",
+        "id": "2889",
+        "special": false
+    },
+    {
+        "Name": "La Gloire de Mon Père",
+        "id": "10347",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Auberge Saint Walfrid",
+        "id": "7784",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Allium",
+        "id": "16855",
+        "special": false
+    },
+    {
+        "Name": "Harmonie Thai",
+        "id": "328307",
+        "special": [
+            "-40% off the \"à la carte\" menu!",
+            "-30% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Étude",
+        "id": "62495",
+        "special": false
+    },
+    {
+        "Name": "L'Aromate",
+        "id": "38154",
+        "special": false
+    },
+    {
+        "Name": "Les Genêts",
+        "id": "42716",
+        "special": false
+    },
+    null,
+    {
+        "Name": "L'Oustau de Baumanière - Jean André Charial",
+        "id": "687",
+        "special": [
+            "Menu 195€",
+            "Brunch 145€",
+            "Menu Ballade des Baux 215€",
+            "Menu évolution tradition 165€",
+            "Menu déjeuner 100€"
+        ]
+    },
+    {
+        "Name": "Pages",
+        "id": "65716",
+        "special": false
+    },
+    {
+        "Name": "La Vieille Tour",
+        "id": "45610",
+        "special": false
+    },
+    null,
+    {
+        "Name": "L'Azimut",
+        "id": "5771",
+        "special": false
+    },
+    {
+        "Name": "L'Assiette Champenoise",
+        "id": "3806",
+        "special": false
+    },
+    {
+        "Name": "La Bastide de Moustiers",
+        "id": "57531",
+        "special": [
+            "Menu 98€"
+        ]
+    },
+    {
+        "Name": "Hostellerie Bérard & spa",
+        "id": "416",
+        "special": [
+            "\"Menu \"Le Randour de la Bastide\" 58€\"",
+            "\"Menu \"Pour les gourmands\" 92€\"",
+            "\"Menu \"Moment de plaisir to partager\" 169€\""
+        ]
+    },
+    {
+        "Name": "Restaurant Numéro 3",
+        "id": "26601",
+        "special": [
+            "Menu 85€",
+            "Menu 65€",
+            "Menu  49€"
+        ]
+    },
+    {
+        "Name": "Le Chiberta - Stéphane Laruelle - Guy Savoy",
+        "id": "2828",
+        "special": [
+            "Menu Découverte 110€"
+        ]
+    },
+    {
+        "Name": "Le Petit Nice Sud",
+        "id": "43549",
+        "special": false
+    },
+    {
+        "Name": "La Barbacane",
+        "id": "38385",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Au Trou Gascon - Alain Dutournier",
+        "id": "69375",
+        "special": [
+            "Menu Gourmands 89€"
+        ]
+    },
+    {
+        "Name": "Carré des Feuillants - Alain Dutournier",
+        "id": "69372",
+        "special": [
+            "Menu Gourmands 149€"
+        ]
+    },
+    {
+        "Name": "Le Hibou",
+        "id": "39794",
+        "special": false
+    },
+    {
+        "Name": "Dominique Bouchet",
+        "id": "310829",
+        "special": [
+            "-20% on « MENU AVEC SAKE », or 120,00 € instead of 150,00 €!"
+        ]
+    },
+    {
+        "Name": "Café du Manoir de Procé",
+        "id": "39878",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Gilles Moreau",
+        "id": "9825",
+        "special": false
+    },
+    {
+        "Name": "Le Magasin aux Vivres",
+        "id": "5109",
+        "special": false
+    },
+    {
+        "Name": "La Marelle",
+        "id": "40576",
+        "special": false
+    },
+    {
+        "Name": "La Dame de Pic - Anne-Sophie PIC - Paris",
+        "id": "205419",
+        "special": [
+            "Menu 135€",
+            "Menu 105€",
+            "Menu 59€"
+        ]
+    },
+    {
+        "Name": "La Grand'Vigne - Hôtel Les Sources de Caudalie",
+        "id": "5649",
+        "special": false
+    },
+    {
+        "Name": "Maison Kieny",
+        "id": "2971",
+        "special": false
+    },
+    {
+        "Name": "Domaine des Séquoias",
+        "id": "1009",
+        "special": [
+            "Menu 70€",
+            "Menu Affaire 40€",
+            "Menu \"Suite Nº11\"  130€"
+        ]
+    },
+    {
+        "Name": "Auberge de l'Ile",
+        "id": "548",
+        "special": [
+            "Menu 158€",
+            "Menu 50€"
+        ]
+    },
+    {
+        "Name": "Restaurant le Meurice Alain Ducasse",
+        "id": "275",
+        "special": [
+            "Menu Prestige 225€",
+            "Menu 580€",
+            "Lunch Menu starting at 85€",
+            "American Breakfast 58€"
+        ]
+    },
+    {
+        "Name": "L'Auberge des Pins",
+        "id": "14093",
+        "special": false
+    },
+    {
+        "Name": "Helen",
+        "id": "23454",
+        "special": [
+            "Lunch menu monday to friday 48€"
+        ]
+    },
+    {
+        "Name": "L'Ambroisie",
+        "id": "70909",
+        "special": false
+    },
+    {
+        "Name": "La Table des Merville - Thierry Merville",
+        "id": "2591",
+        "special": false
+    },
+    {
+        "Name": "Le Vivarais",
+        "id": "30620",
+        "special": false
+    },
+    {
+        "Name": "Picanha's",
+        "id": "288205",
+        "special": false
+    },
+    {
+        "Name": "L'Odas",
+        "id": "212971",
+        "special": [
+            "Menu 65€",
+            "Menu 45€",
+            "Set Menu 28€"
+        ]
+    },
+    null,
+    {
+        "Name": "Gabriella - Le Clan des Mamma",
+        "id": "352993",
+        "special": false
+    },
+    {
+        "Name": "Le Saint Placide",
+        "id": "219191",
+        "special": [
+            "-30% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Le Pressoir",
+        "id": "18188",
+        "special": false
+    },
+    {
+        "Name": "Le Château de Pray",
+        "id": "24370",
+        "special": [
+            "Menu 72€",
+            "Menu 59€"
+        ]
+    },
+    {
+        "Name": "Il Carpaccio",
+        "id": "310023",
+        "special": [
+            "-20% off the \"à la carte\" menu, including drinks!"
+        ]
+    },
+    {
+        "Name": "Aux Pesked Deauville",
+        "id": "62615",
+        "special": false
+    },
+    {
+        "Name": "Zen Market",
+        "id": "21756",
+        "special": [
+            "50% off food",
+            "40% off food"
+        ]
+    },
+    {
+        "Name": "L'Auberge du Vieux Puits",
+        "id": "65577",
+        "special": [
+            "Menu 29.90€"
+        ]
+    },
+    {
+        "Name": "Domaine d'Auriac",
+        "id": "3018",
+        "special": false
+    },
+    {
+        "Name": "L'Oustau de Baumanière - Jean André Charial",
+        "id": "687",
+        "special": [
+            "Menu 195€",
+            "Brunch 145€",
+            "Menu Ballade des Baux 215€",
+            "Menu évolution tradition 165€",
+            "Menu déjeuner 100€"
+        ]
+    },
+    null,
+    {
+        "Name": "Bruno's",
+        "id": "18654",
+        "special": false
+    },
+    {
+        "Name": "Le Quincangrogne",
+        "id": "78533",
+        "special": false
+    },
+    {
+        "Name": "Auberge du Bon Laboureur",
+        "id": "2934",
+        "special": false
+    },
+    {
+        "Name": "Les Bacchanales - Christophe Dufau",
+        "id": "6448",
+        "special": false
+    },
+    {
+        "Name": "Canter 1920",
+        "id": "68859",
+        "special": false
+    },
+    {
+        "Name": "Les Barjots",
+        "id": "8825",
+        "special": [
+            "-30% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Restaurant Stéphane Derbord",
+        "id": "5619",
+        "special": [
+            "Menu 105€",
+            "Menu 82€",
+            "Menu 72€",
+            "Menu 55€"
+        ]
+    },
+    {
+        "Name": "Auberge des Templiers",
+        "id": "2714",
+        "special": false
+    },
+    {
+        "Name": "Le Relais de la Poste",
+        "id": "2876",
+        "special": false
+    },
+    {
+        "Name": "La Coopérative",
+        "id": "29958",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Ivan Vautier",
+        "id": "26460",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Les Coquillages du Roy René",
+        "id": "215385",
+        "special": false
+    },
+    {
+        "Name": "Hôtel Restaurant Yoann CONTE, bord du lac",
+        "id": "15264",
+        "special": [
+            "Menu 160€",
+            "Menu 169€",
+            "Menu 98€"
+        ]
+    },
+    null,
+    null,
+    {
+        "Name": "Sylvestre - Hôtel Thoumieux",
+        "id": "200546",
+        "special": [
+            "Menu 85€"
+        ]
+    },
+    {
+        "Name": "Ithurria",
+        "id": "378",
+        "special": false
+    },
+    {
+        "Name": "Le Relais de la Poste",
+        "id": "2876",
+        "special": false
+    },
+    {
+        "Name": "Le Moulin de l'Abbaye",
+        "id": "26352",
+        "special": false
+    },
+    {
+        "Name": "Chez Michèle",
+        "id": "16363",
+        "special": false
+    },
+    {
+        "Name": "Benoit - Alain Ducasse",
+        "id": "25896",
+        "special": [
+            "Menu Mardis Gourmands 125€"
+        ]
+    },
+    {
+        "Name": "Au Vieux Couvent - Alexis Albrecht",
+        "id": "15068",
+        "special": [
+            "Menu 99€",
+            "Menu 73€",
+            "Menu Tentation 56€"
+        ]
+    },
+    null,
+    {
+        "Name": "Le Refuge des Gourmets",
+        "id": "10332",
+        "special": [
+            "Menu 35€"
+        ]
+    },
+    null,
+    {
+        "Name": "Maxime Colin",
+        "id": "204637",
+        "special": false
+    },
+    {
+        "Name": "Oasis",
+        "id": "319067",
+        "special": [
+            "-20% on the total bill!"
+        ]
+    },
+    {
+        "Name": "JANS´",
+        "id": "362737",
+        "special": false
+    },
+    {
+        "Name": "Hostellerie Les Remparts",
+        "id": "42092",
+        "special": false
+    },
+    {
+        "Name": "Le Corot - Hôtel Les Étangs de Corot",
+        "id": "5623",
+        "special": [
+            "Group Special: Menu 125€",
+            "Menu 130€",
+            "Menu 95€",
+            "Menu 48€"
+        ]
+    },
+    {
+        "Name": "Lavinia Madeleine",
+        "id": "21647",
+        "special": [
+            "-20% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Le Relais des Moines",
+        "id": "132",
+        "special": false
+    },
+    {
+        "Name": "Alexandre",
+        "id": "59114",
+        "special": false
+    },
+    {
+        "Name": "La Scène Thélème",
+        "id": "269585",
+        "special": [
+            "-50% off the \"à la carte\" menu!",
+            "-30% off the \"à la carte\" menu!",
+            "-20% off the \"à la carte\" menu!",
+            "Menu du Marché 95€",
+            "Menu Promenade 129€",
+            "Menu Mardis Gourmands 99 €",
+            "Menu Déjeuner 39€ ou 49€"
+        ]
+    },
+    {
+        "Name": "La Chapelle Saint Martin",
+        "id": "5609",
+        "special": false
+    },
+    null,
+    {
+        "Name": "La Palme d'Or",
+        "id": "287357",
+        "special": false
+    },
+    {
+        "Name": "Le Mille Feuilles",
+        "id": "331487",
+        "special": false
+    },
+    {
+        "Name": "L'Auberge de la Diligence",
+        "id": "6765",
+        "special": false
+    },
+    {
+        "Name": "Neige d'été",
+        "id": "46721",
+        "special": [
+            "Menu Déjeuner 65€",
+            "Menu  60€",
+            "Menu 100€",
+            "Menu déjeuner 45€"
+        ]
+    },
+    null,
+    {
+        "Name": "La Table de Botzaris - Buttes Chaumont",
+        "id": "8664",
+        "special": false
+    },
+    {
+        "Name": "Le Candille - Le Mas Candille",
+        "id": "3521",
+        "special": [
+            "Menu du marché (boissons comprises) 64€",
+            "Menu du marché 49€",
+            "Menu Like a blank canva 95€",
+            "Menu Like a blank canva 75€",
+            "Menu Découverte Candille 95€",
+            "Menu Signature 135€"
+        ]
+    },
+    {
+        "Name": "Le Salon d'Hélène - Hélène Darroze",
+        "id": "36039",
+        "special": [
+            "Menu Gourmand 99€",
+            "Menu Déjeuner 30€ et 49€"
+        ]
+    },
+    {
+        "Name": "Le Strasbourg",
+        "id": "10382",
+        "special": [
+            "Menu 75€"
+        ]
+    },
+    null,
+    {
+        "Name": "Alliance",
+        "id": "77626",
+        "special": [
+            "Menu 120€",
+            "Menu 175€",
+            "Menu Alliance 110€ et Menu Tentation 90€"
+        ]
+    },
+    {
+        "Name": "La Table d'Hervé Busset",
+        "id": "128",
+        "special": [
+            "Menu 75€"
+        ]
+    },
+    {
+        "Name": "Le Bellerose",
+        "id": "28941",
+        "special": false
+    },
+    {
+        "Name": "L'Epicure",
+        "id": "312241",
+        "special": false
+    },
+    {
+        "Name": "Les Jardins de L'Espadon - Ritz Paris",
+        "id": "269931",
+        "special": [
+            "Menu Carte 95€ et 120€"
+        ]
+    },
+    {
+        "Name": "Maison Lameloise",
+        "id": "3552",
+        "special": false
+    },
+    null,
+    null,
+    {
+        "Name": "Ar Men Du",
+        "id": "4961",
+        "special": false
+    },
+    {
+        "Name": "L'Orangerie",
+        "id": "313533",
+        "special": [
+            "Brunch 42€"
+        ]
+    },
+    {
+        "Name": "Emporio Armani Ristorante",
+        "id": "275457",
+        "special": [
+            "Prestige Menu 79€"
+        ]
+    },
+    null,
+    {
+        "Name": "La Galinette",
+        "id": "40692",
+        "special": false
+    },
+    {
+        "Name": "Restaurant Thierry Drapeau",
+        "id": "68308",
+        "special": false
+    },
+    {
+        "Name": "Auberge de Clochemerle - Romain Barthe",
+        "id": "2755",
+        "special": false
+    },
+    {
+        "Name": "L'Abeille",
+        "id": "226579",
+        "special": false
+    },
+    {
+        "Name": "L’Atelier de Gaztelur",
+        "id": "78423",
+        "special": [
+            "Menu 90€"
+        ]
+    },
+    {
+        "Name": "La Bastide Enchantée",
+        "id": "334229",
+        "special": false
+    },
+    {
+        "Name": "Ed.Em",
+        "id": "209193",
+        "special": false
+    },
+    {
+        "Name": "La Chassagnette",
+        "id": "14529",
+        "special": false
+    },
+    {
+        "Name": "Antoine Simeoni",
+        "id": "326737",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Maison Rostang",
+        "id": "405",
+        "special": [
+            "Menu Prestige 115€ Tout Compris, le midi !",
+            "Menu Prestige 195€ Tout Compris, le soir !"
+        ]
+    },
+    {
+        "Name": "Cobéa - Philippe Bélissent",
+        "id": "15802",
+        "special": false
+    },
+    {
+        "Name": "Alcyone",
+        "id": "31008",
+        "special": false
+    },
+    {
+        "Name": "Les Terrasses de Lyon",
+        "id": "4697",
+        "special": false
+    },
+    {
+        "Name": "La Nouvelle Auberge",
+        "id": "38024",
+        "special": false
+    },
+    {
+        "Name": "Chateau d´Ayres",
+        "id": "319841",
+        "special": [
+            "-30% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Hostellerie de Plaisance",
+        "id": "4904",
+        "special": [
+            "Menu 68€",
+            "Menu Souvenirs 185€",
+            "Menu Plaisance 135€"
+        ]
+    },
+    {
+        "Name": "Penati Al Baretto - Alberico Penati",
+        "id": "36448",
+        "special": [
+            "-20% off the \"à la carte\" menu!",
+            "MENU DÉJEUNER de 39€ à 55€"
+        ]
+    },
+    {
+        "Name": "RACKHAM",
+        "id": "46990",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Le Musigny",
+        "id": "32118",
+        "special": false
+    },
+    {
+        "Name": "L'Arôme",
+        "id": "713",
+        "special": [
+            "Menu Mardis Gourmands 139€"
+        ]
+    },
+    {
+        "Name": "La Cachette",
+        "id": "19469",
+        "special": [
+            "Menu 25€"
+        ]
+    },
+    {
+        "Name": "Le Bec Au Cauchois Restaurant Pierre Caillet",
+        "id": "3401",
+        "special": false
+    },
+    {
+        "Name": "La Vague d'Or",
+        "id": "26660",
+        "special": false
+    },
+    {
+        "Name": "Le Clair de la Plume",
+        "id": "18271",
+        "special": [
+            "Menu truffe d'hiver en 7 services 175€",
+            "Menu Ephémère 39€",
+            "Menu 59€"
+        ]
+    },
+    null,
+    {
+        "Name": "Atelier du Peintre",
+        "id": "6437",
+        "special": false
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "Name": "Le Meurin",
+        "id": "77613",
+        "special": false
+    },
+    {
+        "Name": "Le Kleber",
+        "id": "3933",
+        "special": false
+    },
+    {
+        "Name": "L'Aparté",
+        "id": "271395",
+        "special": false
+    },
+    {
+        "Name": "Auguste",
+        "id": "308403",
+        "special": [
+            "-50% off the \"à la carte\" menu, including drinks!",
+            "-50% off the \"à la carte\" menu, including drinks!"
+        ]
+    },
+    {
+        "Name": "Sous les Cerisiers",
+        "id": "10898",
+        "special": false
+    },
+    {
+        "Name": "L'Auberge Basque",
+        "id": "5305",
+        "special": false
+    },
+    {
+        "Name": "La Bonne Etape",
+        "id": "953",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Le Pavillon des Boulevards - Denis Franc",
+        "id": "7872",
+        "special": false
+    },
+    {
+        "Name": "Château de Courban & Spa",
+        "id": "16982",
+        "special": false
+    },
+    {
+        "Name": "Restaurant Gastronomique Pierre Gagnaire ** à la Grande Maison Bernard Magrez",
+        "id": "58878",
+        "special": false
+    },
+    {
+        "Name": "Alain Llorca",
+        "id": "277471",
+        "special": false
+    },
+    {
+        "Name": "Restaurant William Frachot",
+        "id": "3931",
+        "special": false
+    },
+    {
+        "Name": "Le Petit Pergolèse",
+        "id": "8656",
+        "special": false
+    },
+    {
+        "Name": "Loiseau rive Gauche",
+        "id": "25",
+        "special": [
+            "Menu 160€",
+            "Menu Ephémère 45€",
+            "Menu Plein Champ 75€",
+            "Menu Climat de Saison 82€",
+            "Menu Plein Champ 105€"
+        ]
+    },
+    {
+        "Name": "Loiseau des Vignes",
+        "id": "3304",
+        "special": [
+            "Menu 119€",
+            "Menu 95€",
+            "Menu 75€",
+            "Menu 59€",
+            "Menu 35€",
+            "Set Menu 25€"
+        ]
+    },
+    null,
+    {
+        "Name": "Pierre Orsi",
+        "id": "12900",
+        "special": [
+            "Menu Mardis Gourmands 150€"
+        ]
+    },
+    null,
+    {
+        "Name": "Campanile Montpellier Est-Le Millénaire",
+        "id": "18007",
+        "special": false
+    },
+    {
+        "Name": "Le 111",
+        "id": "350071",
+        "special": [
+            "-30% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Manoir de la Boulaie - Laurent Saudeau",
+        "id": "3485",
+        "special": [
+            "-20% off the \"à la carte\" menu"
+        ]
+    },
+    {
+        "Name": "Shang Palace",
+        "id": "63264",
+        "special": false
+    },
+    {
+        "Name": "Frédéric Simonin",
+        "id": "23087",
+        "special": false
+    },
+    {
+        "Name": "Le Stendhal",
+        "id": "360451",
+        "special": [
+            "-30% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "L'Amphitryon",
+        "id": "12314",
+        "special": [
+            "Menu 26€"
+        ]
+    },
+    {
+        "Name": "Loiseau des Ducs",
+        "id": "29826",
+        "special": [
+            "Menu 48€",
+            "Menu 48€",
+            "Menu 165€",
+            "Menu 48€",
+            "Menu 48€",
+            "Menu 48€",
+            "Menu 105€",
+            "Menu 75€",
+            "Menu 55€",
+            "Menu 35€",
+            "Set Menu 25€"
+        ]
+    },
+    {
+        "Name": "Flaveur",
+        "id": "38155",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Les Rosiers",
+        "id": "6710",
+        "special": [
+            "Menu 85€"
+        ]
+    },
+    {
+        "Name": "Jean Luc Tartarin",
+        "id": "2698",
+        "special": [
+            "Menu 198€",
+            "Menu 69€"
+        ]
+    },
+    null,
+    {
+        "Name": "Mavrommatis",
+        "id": "5727",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Château Cordeillan Bages",
+        "id": "366063",
+        "special": [
+            "Equilibre 155€",
+            "Primeurs  60€ (only for lunch)",
+            "Primeurs  45€ (for lunch only)",
+            "Menu Mother's day 125€",
+            "MILLESIMES  120€",
+            "MILLESIMES  75€"
+        ]
+    },
+    {
+        "Name": "La Voile D'Or",
+        "id": "358027",
+        "special": false
+    },
+    {
+        "Name": "Gordon Ramsay au Trianon",
+        "id": "3131",
+        "special": false
+    },
+    {
+        "Name": "Jean Claude",
+        "id": "78036",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Henriqueta",
+        "id": "69468",
+        "special": false
+    },
+    {
+        "Name": "L'Archeste",
+        "id": "284489",
+        "special": [
+            "Menu autour de la Truffe et Caviar 180€",
+            "Menu Carte Blanche le Soir 110€",
+            "Menu Carte Blanche le Midi 52€ et 72€"
+        ]
+    },
+    {
+        "Name": "Le 1741",
+        "id": "19211",
+        "special": false
+    },
+    {
+        "Name": "La Grange de Belle Eglise",
+        "id": "28557",
+        "special": [
+            "-30% sur la carte"
+        ]
+    },
+    {
+        "Name": "Hôtel Restaurant Les Bories",
+        "id": "27598",
+        "special": false
+    },
+    {
+        "Name": "Toyama",
+        "id": "367103",
+        "special": [
+            "-30% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "La Quintessence",
+        "id": "207515",
+        "special": false
+    },
+    null,
+    null,
+    {
+        "Name": "Pierre",
+        "id": "10170",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Restaurant Cyril Attrazic - Chez Camillou",
+        "id": "26469",
+        "special": false
+    },
+    {
+        "Name": "Le Pont de l'Ouysse",
+        "id": "62590",
+        "special": false
+    },
+    {
+        "Name": "Les Hautes Roches",
+        "id": "2819",
+        "special": false
+    },
+    {
+        "Name": "L'Auberge Tiegezh",
+        "id": "51875",
+        "special": false
+    },
+    null,
+    {
+        "Name": "La Grande Cascade - Frédéric Robert",
+        "id": "122",
+        "special": [
+            "-40% off the \"à la carte\" menu"
+        ]
+    },
+    {
+        "Name": "La Villa Archange",
+        "id": "8685",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Masala Masala",
+        "id": "310257",
+        "special": false
+    },
+    null,
+    null,
+    null,
+    {
+        "Name": "La Villa Madie - Dimitri Droisneau",
+        "id": "2788",
+        "special": false
+    },
+    {
+        "Name": "1912",
+        "id": "60777",
+        "special": [
+            "20% off food"
+        ]
+    },
+    {
+        "Name": "L'Amphitryon",
+        "id": "12314",
+        "special": [
+            "Menu 26€"
+        ]
+    },
+    {
+        "Name": "Le Jardin des Pâtes",
+        "id": "493",
+        "special": false
+    },
+    {
+        "Name": "ASSAGIO",
+        "id": "824cd338-24de-47c3-a4f9-f2a7fc89f08d",
+        "special": [
+            "Menu Trinidad 45€",
+            "Group Special: Menu 45€ (10 to 50 p.)",
+            "Brunch 19.50 €"
+        ]
+    },
+    {
+        "Name": "L'Atelier de Jacques",
+        "id": "11316",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Le Farçon",
+        "id": "39829",
+        "special": false
+    },
+    {
+        "Name": "Le Figuier de Saint-Esprit",
+        "id": "1226",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Il Cortile",
+        "id": "365531",
+        "special": [
+            "-20% off the \"à la carte\" menu, including drinks!"
+        ]
+    },
+    {
+        "Name": "Les Saisons",
+        "id": "18077",
+        "special": [
+            "-30% off the \"à la carte\" menu!",
+            "20% off food"
+        ]
+    },
+    {
+        "Name": "Le Panoramique du Domaine de la Corniche",
+        "id": "6792",
+        "special": [
+            "Menu 36€",
+            "Set Menu 29€",
+            "Menu 47€",
+            "Menu 54€",
+            "Menu 72€"
+        ]
+    },
+    {
+        "Name": "Café Lamartine",
+        "id": "211415",
+        "special": false
+    },
+    {
+        "Name": "Les Voiles du Grand Large",
+        "id": "57635",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Le Raisin",
+        "id": "19559",
+        "special": false
+    },
+    null,
+    null,
+    {
+        "Name": "La Table de Minà - Relais & Châteaux Les Bergeries de Palombaggia",
+        "id": "35418",
+        "special": false
+    },
+    {
+        "Name": "Le Clos des Vignes",
+        "id": "11556",
+        "special": false
+    },
+    null,
+    {
+        "Name": "La Table d´Agnès",
+        "id": "307057",
+        "special": [
+            "Menu 38€",
+            "Set Menu 24€"
+        ]
+    },
+    null,
+    {
+        "Name": "Les Cèdres",
+        "id": "289357",
+        "special": false
+    },
+    {
+        "Name": "Les Clefs d'Argent",
+        "id": "8933",
+        "special": false
+    },
+    {
+        "Name": "Grand Hotel de L'Empereur",
+        "id": "223867",
+        "special": false
+    },
+    {
+        "Name": "Dominique Bouchet",
+        "id": "310829",
+        "special": [
+            "-20% on « MENU AVEC SAKE », or 120,00 € instead of 150,00 €!"
+        ]
+    },
+    {
+        "Name": "Le Cinq",
+        "id": "19955",
+        "special": [
+            "Set Menu 19€"
+        ]
+    },
+    null,
+    {
+        "Name": "Le Cerceau",
+        "id": "295101",
+        "special": [
+            "-20% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Logis de la Cadène",
+        "id": "44000",
+        "special": false
+    },
+    {
+        "Name": "Apicius",
+        "id": "60418",
+        "special": false
+    },
+    {
+        "Name": "Ken Kawasaki",
+        "id": "276169",
+        "special": [
+            "Menu 70€",
+            "Menu 45€",
+            "Menu 30€"
+        ]
+    },
+    {
+        "Name": "Le Skiff Club",
+        "id": "9110c168-7ea9-48f3-8693-13a08381eecf",
+        "special": [
+            "Menu dinners 14.90€",
+            "Group menu 25€"
+        ]
+    },
+    {
+        "Name": "Le Grand Café Capucines",
+        "id": "25902",
+        "special": [
+            "-30% off the \"à la carte\" menu!"
+        ]
+    },
+    null,
+    null,
+    {
+        "Name": "Divellec",
+        "id": "272053",
+        "special": [
+            "Brunch 65€",
+            "Brunch 49€",
+            "Menu 49€",
+            "Menu 90€",
+            "Menu 210€"
+        ]
+    },
+    null,
+    null,
+    {
+        "Name": "MONTÉE",
+        "id": "272593",
+        "special": [
+            "Menu Déjeuner 40€",
+            "Menu Carte Blanche le Soir 80€",
+            "Menu formule pour midi 32€"
+        ]
+    },
+    null,
+    {
+        "Name": "Comice",
+        "id": "337449",
+        "special": false
+    },
+    {
+        "Name": "Table d'Hôtes de Delphine",
+        "id": "265609",
+        "special": false
+    },
+    {
+        "Name": "Aquarelle",
+        "id": "325157",
+        "special": [
+            "Menu 30€",
+            "Set Menu Lunch 14.50€"
+        ]
+    },
+    {
+        "Name": "Maison Bréguet",
+        "id": "348371",
+        "special": false
+    },
+    {
+        "Name": "Avel Vor",
+        "id": "3184fdec-cb60-4c40-84ab-f8a38e7f377a",
+        "special": [
+            "-30% off the \"à la carte\" menu!",
+            "Brunch 22€"
+        ]
+    },
+    {
+        "Name": "Ze Kitchen Galerie",
+        "id": "269053",
+        "special": [
+            "Menu de 41€ à 72€",
+            "Menu Découverte 98€",
+            "Menu Découverte 85€"
+        ]
+    },
+    null,
+    {
+        "Name": "Terre Mer",
+        "id": "7715",
+        "special": false
+    },
+    {
+        "Name": "Le Bistrot du Chêne Vert",
+        "id": "12086",
+        "special": false
+    },
+    {
+        "Name": "La Petite Maison de Pierre",
+        "id": "289175",
+        "special": false
+    },
+    {
+        "Name": "Sequana",
+        "id": "216195",
+        "special": [
+            "Set Menu 24€",
+            "Menu 50€",
+            "Menu 32€",
+            "Menu 70€"
+        ]
+    },
+    null,
+    null,
+    {
+        "Name": "Marietta",
+        "id": "201973",
+        "special": false
+    },
+    {
+        "Name": "La Boscana",
+        "id": "74396",
+        "special": false
+    },
+    {
+        "Name": "Umami",
+        "id": "310765",
+        "special": [
+            "Menu 25€"
+        ]
+    },
+    {
+        "Name": "L'Atelier de Joël Robuchon Saint Germain",
+        "id": "30143",
+        "special": false
+    },
+    {
+        "Name": "Le Vieux Pont",
+        "id": "6482",
+        "special": false
+    },
+    {
+        "Name": "Le Belvédère",
+        "id": "6165",
+        "special": false
+    },
+    {
+        "Name": "Le Boeuf d'Argent",
+        "id": "201774",
+        "special": false
+    },
+    {
+        "Name": "Le Moulin d'Arche",
+        "id": "34904",
+        "special": [
+            "-20% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Le Cerf",
+        "id": "18712",
+        "special": false
+    },
+    {
+        "Name": "L'Aubergade",
+        "id": "282613",
+        "special": false
+    },
+    {
+        "Name": "La Table des Cordeliers",
+        "id": "38023",
+        "special": false
+    },
+    {
+        "Name": "Le Jules Verne",
+        "id": "282745",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Mon Plaisir",
+        "id": "7876",
+        "special": false
+    },
+    {
+        "Name": "Au 14 Février - par Tsuyoshi ARAI -",
+        "id": "25001",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Jérémy Galvan Restaurant",
+        "id": "21095",
+        "special": [
+            "Menu 33€",
+            "Menu 65-85€"
+        ]
+    },
+    {
+        "Name": "Le Colombier",
+        "id": "6153",
+        "special": false
+    },
+    {
+        "Name": "Nakatani",
+        "id": "60859",
+        "special": [
+            "Menu 145€",
+            "Menu 105€",
+            "Menu 68€",
+            "Menu 50€"
+        ]
+    },
+    {
+        "Name": "Le Manoir du Lys",
+        "id": "2740",
+        "special": [
+            "Set Menu 49€",
+            "Menu 63€",
+            "Menu 99€"
+        ]
+    },
+    {
+        "Name": "Auberge au Boeuf",
+        "id": "44361",
+        "special": false
+    },
+    {
+        "Name": "Château de Mercuès",
+        "id": "13311",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Auberge de la Seine",
+        "id": "21111",
+        "special": [
+            "20% off food"
+        ]
+    },
+    {
+        "Name": "Le Phebus - Xavier Mathieu",
+        "id": "1310",
+        "special": false
+    },
+    {
+        "Name": "Aux Anges",
+        "id": "38159",
+        "special": false
+    },
+    null,
+    {
+        "Name": "Keizersberg",
+        "id": "228479",
+        "special": false
+    },
+    null,
+    {
+        "Name": "La Petite Maison de Pierre",
+        "id": "289175",
+        "special": false
+    },
+    {
+        "Name": "La Voile",
+        "id": "310561",
+        "special": [
+            "-50% off the \"à la carte\" menu!"
+        ]
+    },
+    null,
+    {
+        "Name": "Garance",
+        "id": "25701",
+        "special": false
+    },
+    null,
+    null,
+    {
+        "Name": "Garopapilles",
+        "id": "276775",
+        "special": [
+            "Menu 69€"
+        ]
+    },
+    {
+        "Name": "Auberge du Marais",
+        "id": "7761",
+        "special": [
+            "-20% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Pavillon Ledoyen, Alléno Paris",
+        "id": "40119",
+        "special": false
+    },
+    {
+        "Name": "Racines",
+        "id": "214f00aa-a04a-4253-8f87-31b71748f863",
+        "special": [
+            "-30% off the \"à la carte\" menu!",
+            "\"Group special: menu \"Connaisseurs\" 85€ All inclusive (jusqu'to 16p.)\"",
+            "Group special: Gourmet Menu 55€ All inclusive (from 12p.)",
+            "\"Group special: menu \"Epicurien\" 38€ All inclusive (from 12p.)\""
+        ]
+    },
+    {
+        "Name": "Les Marches",
+        "id": "61260",
+        "special": [
+            "-20% off the \"à la carte\" menu!",
+            "-20% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Santa Marina",
+        "id": "48443",
+        "special": false
+    },
+    {
+        "Name": "Bibimbaps -Peireire",
+        "id": "296075",
+        "special": [
+            "-20% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Palégrié",
+        "id": "43353",
+        "special": false
+    },
+    {
+        "Name": "Pertinence",
+        "id": "317587",
+        "special": [
+            "Menu 85€",
+            "Menu 38€"
+        ]
+    },
+    {
+        "Name": "Le Chateaubriand",
+        "id": "202436",
+        "special": false
+    },
+    {
+        "Name": "Palm Beach",
+        "id": "65778",
+        "special": false
+    },
+    {
+        "Name": "Mamatchai",
+        "id": "346045",
+        "special": [
+            "-20% off the \"à la carte\" menu!"
+        ]
+    },
+    null,
+    {
+        "Name": "Henri et Joseph",
+        "id": "8838",
+        "special": false
+    },
+    {
+        "Name": "Saturne",
+        "id": "8760",
+        "special": false
+    },
+    {
+        "Name": "Château de la Fresnaye",
+        "id": "212149",
+        "special": [
+            "Menu 40€"
+        ]
+    },
+    {
+        "Name": "Intuition Gourmande",
+        "id": "26659",
+        "special": false
+    },
+    null,
+    null,
+    {
+        "Name": "Le Bistro de Gaspard",
+        "id": "30276",
+        "special": [
+            "-20% off the \"à la carte\" menu!"
+        ]
+    },
+    {
+        "Name": "Saint James Paris",
+        "id": "24272",
+        "special": false
+    },
+    {
+        "Name": "Le Montgolfier",
+        "id": "287861",
+        "special": false
+    },
+    {
+        "Name": "Le Château de Sable",
+        "id": "65607",
+        "special": false
+    },
+    {
+        "Name": "Mickaël Féval",
+        "id": "77134",
+        "special": [
+            "Menu 35€",
+            "Menu Dégustation 87€",
+            "Menu Tentation 63€"
+        ]
+    },
+    null
+]
